@@ -1,7 +1,7 @@
 
 ## Installing Tableau
 
-Here are the Tableau Installation instructions:
+Here are installation instructions for the Tableau Software:
 
 * Download the latest version of Tableau Desktop [download](https://www.tableau.com/tft/activation).
 
